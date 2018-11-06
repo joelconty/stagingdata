@@ -1,5 +1,5 @@
 {
-        colorRampValues: [
+        "colorRampValues": [
             { id: 1, value: "Less than 200", selected: false, mouseisover:false },
             { id: 2, value: "200 to 300", selected: false, mouseisover: false },
             { id: 3, value: "300 to 400", selected: false, mouseisover: false },
@@ -7,10 +7,10 @@
             { id: 5, value: "600 to 9000", selected: false, mouseisover: false },
             { id: 6, value: "Over 9000!", selected: false, mouseisover: false }
         ],
-        colorRamps: {
+        "colorRamps": {
             purple: ["#EFEAFC", "#DCD2F7", "#C5B7EE", "#AA9AE2", "#8D79D2", "#6C58BE", "#534497", "#3D3465"],
             red: ["#FDF8EE", "#FCF0E6", "#F6CFC3", "#EC988B", "#E36657", "#DB392A", "#A11E13", "#740C03"],
             blue: ["#F1F8FB", "#E5F0F6", "#C7DDEA", "#9BC0D8", "#71A5C6", "#2A76A7", "#135078", "#033453"]
         },
-        colorRampColor: "blue"
+        "colorRampColor": "blue"
     }
